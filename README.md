@@ -1,1 +1,1 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+First Le Wagon project: a Rails app designed and shipped in one week with two other bootcampers. An AirBnB clone which allows users to list their artworks for rent, browse and book artworks from the collections of other users and accept or decline pending bookings in a dedicated account area.
